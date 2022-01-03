@@ -36,6 +36,10 @@ module.exports = {
         title: 'Tips',
         path: 'tips/',
       },
+      {
+        title: 'Git',
+        path: 'git/',
+      },
     ],
   },
 }
